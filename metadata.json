@@ -1,0 +1,7 @@
+{
+  "name": "Brand Extractor AI",
+  "description": "Extract and recreate designs from merchandise like mugs and t-shirts using AI. Upload a photo or use your camera to capture a design, and our AI will isolate and generate a clean version for reprinting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
